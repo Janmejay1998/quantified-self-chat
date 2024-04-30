@@ -16,6 +16,6 @@ Quantified Self Chat helps users identify optimal lifestyle adjustments based on
 - Amit Elharar
 - Ahmed Shifa
 
-**Links:**
+**Reference Links:**
 - [Presentation Video](https://youtu.be/KbYPLkTQMNk?si=kjiFg9kRy3pMxroK)
 - [Devpost Hackathon Project](https://devpost.com/software/the-quantified-self-chat)
