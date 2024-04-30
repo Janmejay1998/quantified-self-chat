@@ -8,3 +8,10 @@ Quantified Self Chat helps users identify optimal lifestyle adjustments based on
 2. Analyze alcohol consumption's effect on sleep quality -> Understand how alcohol affects sleep.
 3. Assess weather's impact on mood -> Decide if traveling to Florida during winter is advisable.
 4. Examine the relationship between types of exercise and mood -> Identify the best sport to stick with.
+
+**Team Members:**
+- Janmejay Mohanty
+- Vitalina Pishchenko
+- Pavani Pagadala
+- Amit Elharar
+- Ahmed Shifa
