@@ -15,7 +15,7 @@ st.title('The Quantified Self Chat')
 model = genai.GenerativeModel('gemini-pro')
 
 df = pd.read_csv('sleep_data.csv', delimiter=',')
-df.drop(columns=['Person ID', 'Gender', 'Age', 'Occupation'], inplace=True)
+df.drop(columns=['Person ID', 'Gender', 'Age', 'Occupation', 'Nurse ID'], inplace=True)
 
 sleep_data = df.to_dict(orient='list')
 
