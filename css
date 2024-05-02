@@ -1,0 +1,10556 @@
+/* Onboarding */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 313px;
+height: 221px;
+left: 21px;
+top: 37px;
+
+
+
+/* Quantified Self Chat */
+
+width: 268px;
+height: 88px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 21px;
+top: 722px;
+
+/* blue */
+background: #3369FF;
+border-radius: 30px;
+
+
+/* Continue */
+
+width: 80px;
+height: 26px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 289px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.12%;
+right: 14.58%;
+top: 24.71%;
+bottom: 24.71%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 15.29%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Onboarding */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 313px;
+height: 54px;
+left: 21px;
+top: 68px;
+
+
+
+/* Quantified Self Chat */
+
+width: 268px;
+height: 54px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 21px;
+top: 722px;
+
+/* blue */
+background: #3369FF;
+border-radius: 30px;
+
+
+/* Continue */
+
+width: 80px;
+height: 26px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 26px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 289px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 60.13%;
+right: 14.58%;
+top: 24.71%;
+bottom: 24.71%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 15.29%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 2121455177 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+position: absolute;
+width: 339px;
+height: 225px;
+left: calc(50% - 339px/2 + 3px);
+top: 167px;
+
+
+
+/* Frame 2121455174 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 12px;
+gap: 12px;
+
+width: 339px;
+height: 210.58px;
+
+border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Account */
+
+display: none;
+width: 62px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455173 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 3px;
+isolation: isolate;
+
+width: 339px;
+height: 198.58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* State */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 213px;
+
+display: none;
+width: 339px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2121455172 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 72px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ant-design:deployment-unit-outlined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 21.09px;
+height: 19.05px;
+left: calc(50% - 21.09px/2 - 0.45px);
+top: calc(50% - 19.05px/2 - 0.48px);
+
+/* Base wgite */
+background: #DADADA;
+
+
+/* Units */
+
+width: 34px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base wgite */
+color: #DADADA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 22px;
+height: 22px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:deployment-unit-outlined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 21.09px;
+height: 19.05px;
+left: calc(50% - 21.09px/2 - 0.45px);
+top: calc(50% - 19.05px/2 - 0.48px);
+
+/* Base wgite */
+background: #DADADA;
+
+
+/* Frame 2121455285 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 158.5px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Units */
+
+width: 41px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base wgite */
+color: #DADADA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* oui:arrow-up */
+
+width: 16px;
+height: 16px;
+
+opacity: 0.8;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: -43.75%;
+top: 12.5%;
+bottom: 50%;
+
+/* Base wgite */
+background: #DADADA;
+/* Base wgite */
+border: 0.5px solid #DADADA;
+transform: rotate(90deg);
+
+
+/* image 1 */
+
+width: 95px;
+height: 41px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 2121455289 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* State */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 213px;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2121455172 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 180.5px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* solar:sun-outline */
+
+display: none;
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 5.21%;
+top: 5.21%;
+bottom: 5.21%;
+
+/* Base white */
+background: #8E8E92;
+
+
+/* google fit 1 */
+
+width: 80px;
+height: 20.86px;
+
+background: url(google fit);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Calendar */
+
+display: none;
+width: 58px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 22px;
+height: 22px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* ant-design:deployment-unit-outlined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 21.09px;
+height: 19.05px;
+left: calc(50% - 21.09px/2 - 0.45px);
+top: calc(50% - 19.05px/2 - 0.48px);
+
+/* Base white */
+background: #8E8E92;
+
+
+/* Frame 2121455285 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 158.5px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Units */
+
+display: none;
+width: 34px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* oui:arrow-up */
+
+display: none;
+width: 16px;
+height: 16px;
+
+opacity: 0.8;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: -43.75%;
+top: 12.5%;
+bottom: 50%;
+
+/* Base white */
+background: #8E8E92;
+/* Base white */
+border: 0.5px solid #8E8E92;
+transform: rotate(90deg);
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 - 0.43px);
+
+background: rgba(255, 255, 255, 0.24);
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 8 */
+
+display: none;
+width: 14px;
+height: 14px;
+
+background: rgba(255, 255, 255, 0.4);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 - 0.71px);
+
+background: linear-gradient(0deg, #B8B8B8, #B8B8B8), #3369FF;
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455281 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* State */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 213px;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2121455172 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 180.5px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* solar:sun-outline */
+
+display: none;
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 5.21%;
+top: 5.21%;
+bottom: 5.21%;
+
+/* Base white */
+background: #8E8E92;
+
+
+/* Group 1597880490 */
+
+width: 97.91px;
+height: 20.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Picture1 5 */
+
+position: absolute;
+width: 97.91px;
+height: 20.86px;
+left: 0px;
+top: 10px;
+
+background: url(Picture1);
+
+
+/* Mask group */
+
+position: absolute;
+width: 97.91px;
+height: 20.86px;
+left: 0px;
+top: 10px;
+
+
+
+/* Picture1 6 */
+
+position: absolute;
+width: 97.91px;
+height: 20.86px;
+left: 0px;
+top: 10px;
+
+background: url(Picture1);
+
+
+/* Rectangle 34624944 */
+
+position: absolute;
+width: 71px;
+height: 10px;
+left: 26px;
+top: 15px;
+
+background: #D9D9D9;
+
+
+/* Calendar */
+
+display: none;
+width: 58px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 22px;
+height: 22px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* ant-design:deployment-unit-outlined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 21.09px;
+height: 19.05px;
+left: calc(50% - 21.09px/2 - 0.45px);
+top: calc(50% - 19.05px/2 - 0.48px);
+
+/* Base white */
+background: #8E8E92;
+
+
+/* Frame 2121455285 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 158.5px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Units */
+
+display: none;
+width: 34px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* oui:arrow-up */
+
+display: none;
+width: 16px;
+height: 16px;
+
+opacity: 0.8;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: -43.75%;
+top: 12.5%;
+bottom: 50%;
+
+/* Base white */
+background: #8E8E92;
+/* Base white */
+border: 0.5px solid #8E8E92;
+transform: rotate(90deg);
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 - 0.43px);
+
+background: rgba(255, 255, 255, 0.24);
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: rgba(255, 255, 255, 0.4);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 - 0.57px);
+
+background: linear-gradient(0deg, #B8B8B8, #B8B8B8), #3369FF;
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455287 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 339px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* State */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 213px;
+
+width: 339px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* image 2 */
+
+margin: 0 auto;
+width: 80px;
+height: 23px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455285 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 158.5px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Units */
+
+display: none;
+width: 34px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* oui:arrow-up */
+
+display: none;
+width: 16px;
+height: 16px;
+
+opacity: 0.8;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: -43.75%;
+top: 12.5%;
+bottom: 50%;
+
+/* Base white */
+background: #8E8E92;
+/* Base white */
+border: 0.5px solid #8E8E92;
+transform: rotate(90deg);
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 + 0.5px);
+
+background: #3369FF;
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455287 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* State */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 213px;
+
+width: 339px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2121455172 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 180.5px;
+height: 40.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* solar:sun-outline */
+
+display: none;
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 5.21%;
+top: 5.21%;
+bottom: 5.21%;
+
+/* Base white */
+background: #8E8E92;
+
+
+/* Frame 2121455367 */
+
+width: 77.18px;
+height: 20.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Picture1 3 */
+
+position: absolute;
+width: 77.18px;
+height: 20.86px;
+left: 0px;
+top: 0px;
+
+background: url(Picture1);
+
+
+/* Mask group */
+
+position: absolute;
+width: 77.18px;
+height: 20.86px;
+left: 0px;
+top: 0px;
+
+
+
+/* Picture1 4 */
+
+position: absolute;
+width: 77.18px;
+height: 20.86px;
+left: 0px;
+top: 0px;
+
+background: url(Picture1);
+
+
+/* Rectangle 34624943 */
+
+position: absolute;
+width: 100px;
+height: 57px;
+left: 21px;
+top: -42.86px;
+
+background: #D9D9D9;
+
+
+/* Calendar */
+
+display: none;
+width: 58px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 22px;
+height: 22px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* ant-design:deployment-unit-outlined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2);
+top: calc(50% - 24px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+width: 21.09px;
+height: 19.05px;
+left: calc(50% - 21.09px/2 - 0.45px);
+top: calc(50% - 19.05px/2 - 0.48px);
+
+/* Base white */
+background: #8E8E92;
+
+
+/* Frame 2121455285 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 158.5px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Units */
+
+display: none;
+width: 34px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+/* Base white */
+color: #8E8E92;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* oui:arrow-up */
+
+display: none;
+width: 16px;
+height: 16px;
+
+opacity: 0.8;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: -43.75%;
+top: 12.5%;
+bottom: 50%;
+
+/* Base white */
+background: #8E8E92;
+/* Base white */
+border: 0.5px solid #8E8E92;
+transform: rotate(90deg);
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: 0px;
+top: calc(50% - 22px/2 - 0.43px);
+
+background: #3369FF;
+border-radius: 35px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Toggle Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 10px;
+
+position: absolute;
+width: 37px;
+height: 22px;
+right: -37.08px;
+top: calc(50% - 22px/2 - 44.42px);
+
+background: #B8B8B8;
+border-radius: 35px;
+transform: rotate(179.58deg);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* Ellipse 8 */
+
+width: 14px;
+height: 14px;
+
+background: #FFFFFF;
+transform: rotate(179.58deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SIgn in/ Sign Up */
+
+position: relative;
+width: 1383px;
+height: 1012px;
+
+
+
+/* Login */
+
+position: relative;
+width: 375px;
+height: 812px;
+left: 126px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Status Bar / iPhone 13 & 13 Pro
+
+<p><strong>Properly sized and aligned status bars for iPhone 13, iPhone 13 mini, iPhone 13 Pro and iPhone 13 Pro Max.</strong></p><p><br></p><p>Use the default settings or play with the components’ properties to achieve the look necessary for your designs.</p><p><br></p><p>For feedback or reporting an bug -&gt; <a rel="noreferrer noopener nofollow ugc" href="https://twitter.com/noxiousone" target="_blank">@noxiousone</a></p>
+*/
+
+position: absolute;
+width: 375px;
+height: 45.19px;
+left: 0px;
+top: -0.39px;
+
+
+
+/* Clock */
+
+position: absolute;
+width: 84.62px;
+height: 45.19px;
+left: 0px;
+top: 0px;
+
+
+
+/* Clock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 1.92px;
+
+position: absolute;
+width: 25px;
+height: 17px;
+left: calc(50% - 25px/2 + 19.23px);
+top: 16.35px;
+
+
+
+/* Time */
+
+width: 25px;
+height: 17px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 16.3462px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.480769px;
+font-feature-settings: 'ss03' on;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 9px;
+height: 14px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 13.4615px;
+line-height: 13px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Indicators group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6.73px;
+
+position: absolute;
+width: 75.29px;
+height: 12.5px;
+right: 25.67px;
+top: 18.27px;
+
+
+
+/* Signal */
+
+width: 19.2px;
+height: 11.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 0%;
+right: 82.47%;
+top: 62.5%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 27.49%;
+right: 54.98%;
+top: 43.75%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 54.98%;
+right: 27.49%;
+top: 21.88%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.47%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Connection */
+
+width: 16.35px;
+height: 12.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Wifi */
+
+position: absolute;
+width: 16.35px;
+height: 12.02px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 56.74%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 17.44%;
+right: 17.42%;
+top: 34.6%;
+bottom: 32.26%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 34.86%;
+right: 34.85%;
+top: 69.23%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Battery */
+
+width: 26.28px;
+height: 12.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 8.53%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+opacity: 0.4;
+border: 0.961538px solid #FFFFFF;
+border-radius: 3.84615px;
+
+
+/* Cap */
+
+position: absolute;
+left: 95.13%;
+right: 0%;
+top: 34.62%;
+bottom: 34.62%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Capacity */
+
+position: absolute;
+left: 7.32%;
+right: 30.48%;
+top: 15.38%;
+bottom: 15.39%;
+
+background: #FFFFFF;
+border-radius: 1.92308px;
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+width: 5.77px;
+height: 5.77px;
+left: 271.15px;
+top: 5.77px;
+
+
+
+/* Line 39 */
+
+position: absolute;
+width: 132px;
+height: 0px;
+left: calc(50% - 132px/2 - 0.5px);
+top: 803px;
+
+border: 5px solid #FEFEFE;
+
+
+/* oui:arrow-up */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 18px;
+top: 75px;
+
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: -6.26%;
+top: 87.5%;
+bottom: -25.01%;
+
+background: #FFFFFF;
+border: 0.5px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Frame 2121455155 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 98px;
+height: 80px;
+left: calc(50% - 98px/2 - 0.5px);
+top: 91px;
+
+
+
+/* 1 1 */
+
+width: 39px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Welcome */
+
+width: 98px;
+height: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2121455153 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 339px;
+height: 314px;
+left: 18px;
+top: 226px;
+
+
+
+/* Frame 2121455167 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 4px;
+gap: 78px;
+
+width: 339px;
+height: 178px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2121455152 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+width: 339px;
+height: 174px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 31px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 299px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 57px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 275px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Hide */
+
+position: absolute;
+width: 18.5px;
+height: 15.77px;
+left: 2.75px;
+top: 4.25px;
+
+
+
+/* Stroke 1 */
+
+position: absolute;
+left: 36.82%;
+right: 40.71%;
+top: 37.38%;
+bottom: 40.14%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 3 */
+
+position: absolute;
+left: 52.37%;
+right: 37.06%;
+top: 52.91%;
+bottom: 36.5%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 5 */
+
+position: absolute;
+left: 11.46%;
+right: 27.77%;
+top: 20.14%;
+bottom: 27.2%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 7 */
+
+position: absolute;
+left: 39.45%;
+right: 11.46%;
+top: 37.46%;
+bottom: 19%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 9 */
+
+position: absolute;
+left: 17.14%;
+right: 17.14%;
+top: 17.71%;
+bottom: 16.57%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 10px;
+gap: 10px;
+
+width: 339px;
+height: 45px;
+
+background: #3369FF;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 38px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 10px;
+gap: 10px;
+
+width: 339px;
+height: 46px;
+
+border: 1px solid #5F5D5D;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 55px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Sign Up */
+
+position: relative;
+width: 375px;
+height: 812px;
+left: 541px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Status Bar / iPhone 13 & 13 Pro
+
+<p><strong>Properly sized and aligned status bars for iPhone 13, iPhone 13 mini, iPhone 13 Pro and iPhone 13 Pro Max.</strong></p><p><br></p><p>Use the default settings or play with the components’ properties to achieve the look necessary for your designs.</p><p><br></p><p>For feedback or reporting an bug -&gt; <a rel="noreferrer noopener nofollow ugc" href="https://twitter.com/noxiousone" target="_blank">@noxiousone</a></p>
+*/
+
+position: absolute;
+width: 375px;
+height: 45.19px;
+left: 0px;
+top: -0.39px;
+
+
+
+/* Clock */
+
+position: absolute;
+width: 84.62px;
+height: 45.19px;
+left: 0px;
+top: 0px;
+
+
+
+/* Clock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 1.92px;
+
+position: absolute;
+width: 25px;
+height: 17px;
+left: calc(50% - 25px/2 + 19.23px);
+top: 16.35px;
+
+
+
+/* Time */
+
+width: 25px;
+height: 17px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 16.3462px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.480769px;
+font-feature-settings: 'ss03' on;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 9px;
+height: 14px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 13.4615px;
+line-height: 13px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Indicators group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6.73px;
+
+position: absolute;
+width: 75.29px;
+height: 12.5px;
+right: 25.67px;
+top: 18.27px;
+
+
+
+/* Signal */
+
+width: 19.2px;
+height: 11.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 0%;
+right: 82.47%;
+top: 62.5%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 27.49%;
+right: 54.98%;
+top: 43.75%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 54.98%;
+right: 27.49%;
+top: 21.88%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.47%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Connection */
+
+width: 16.35px;
+height: 12.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Wifi */
+
+position: absolute;
+width: 16.35px;
+height: 12.02px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 56.74%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 17.44%;
+right: 17.42%;
+top: 34.6%;
+bottom: 32.26%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 34.86%;
+right: 34.85%;
+top: 69.23%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Battery */
+
+width: 26.28px;
+height: 12.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 8.53%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+opacity: 0.4;
+border: 0.961538px solid #FFFFFF;
+border-radius: 3.84615px;
+
+
+/* Cap */
+
+position: absolute;
+left: 95.13%;
+right: 0%;
+top: 34.62%;
+bottom: 34.62%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Capacity */
+
+position: absolute;
+left: 7.32%;
+right: 30.48%;
+top: 15.38%;
+bottom: 15.39%;
+
+background: #FFFFFF;
+border-radius: 1.92308px;
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+width: 5.77px;
+height: 5.77px;
+left: 271.15px;
+top: 5.77px;
+
+
+
+/* Line 39 */
+
+position: absolute;
+width: 132px;
+height: 0px;
+left: calc(50% - 132px/2 - 0.5px);
+top: 803px;
+
+border: 5px solid #FEFEFE;
+
+
+/* oui:arrow-up */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 18px;
+top: 75px;
+
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: -6.26%;
+top: 87.5%;
+bottom: -25.01%;
+
+background: #FFFFFF;
+border: 0.5px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Frame 2121455155 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 98px;
+height: 80px;
+left: calc(50% - 98px/2 - 0.5px);
+top: 91px;
+
+
+
+/* 1 1 */
+
+width: 39px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Welcome */
+
+width: 98px;
+height: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2121455152 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 339px;
+height: 314px;
+left: 18px;
+top: 263px;
+
+
+
+/* Frame 2121455153 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 339px;
+height: 370px;
+left: 18px;
+top: 228px;
+
+
+
+/* Frame 2121455167 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 339px;
+height: 243px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2121455152 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 339px;
+height: 243px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 57px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 299px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 31px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 299px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 57px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 275px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Hide */
+
+position: absolute;
+width: 18.5px;
+height: 15.77px;
+left: 2.75px;
+top: 4.25px;
+
+
+
+/* Stroke 1 */
+
+position: absolute;
+left: 36.81%;
+right: 40.71%;
+top: 37.38%;
+bottom: 40.14%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 3 */
+
+position: absolute;
+left: 52.37%;
+right: 37.06%;
+top: 52.91%;
+bottom: 36.5%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 5 */
+
+position: absolute;
+left: 11.46%;
+right: 27.77%;
+top: 20.14%;
+bottom: 27.2%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 7 */
+
+position: absolute;
+left: 39.45%;
+right: 11.46%;
+top: 37.46%;
+bottom: 19%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 9 */
+
+position: absolute;
+left: 17.14%;
+right: 17.14%;
+top: 17.71%;
+bottom: 16.57%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 10px;
+gap: 10px;
+
+width: 339px;
+height: 45px;
+
+background: #3369FF;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 38px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 10px;
+gap: 10px;
+
+width: 339px;
+height: 46px;
+
+border: 1px solid #5F5D5D;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 55px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Login/ with keyboard open */
+
+position: relative;
+width: 375px;
+height: 812px;
+left: 983px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Status Bar / iPhone 13 & 13 Pro
+
+<p><strong>Properly sized and aligned status bars for iPhone 13, iPhone 13 mini, iPhone 13 Pro and iPhone 13 Pro Max.</strong></p><p><br></p><p>Use the default settings or play with the components’ properties to achieve the look necessary for your designs.</p><p><br></p><p>For feedback or reporting an bug -&gt; <a rel="noreferrer noopener nofollow ugc" href="https://twitter.com/noxiousone" target="_blank">@noxiousone</a></p>
+*/
+
+position: absolute;
+width: 375px;
+height: 45.19px;
+left: 0px;
+top: -0.39px;
+
+
+
+/* Clock */
+
+position: absolute;
+width: 84.62px;
+height: 45.19px;
+left: 0px;
+top: 0px;
+
+
+
+/* Clock */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 1.92px;
+
+position: absolute;
+width: 25px;
+height: 17px;
+left: calc(50% - 25px/2 + 19.23px);
+top: 16.35px;
+
+
+
+/* Time */
+
+width: 25px;
+height: 17px;
+
+font-family: 'Abhaya Libre Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 16.3462px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.480769px;
+font-feature-settings: 'ss03' on;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+display: none;
+width: 9px;
+height: 14px;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 13.4615px;
+line-height: 13px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Indicators group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6.73px;
+
+position: absolute;
+width: 75.29px;
+height: 12.5px;
+right: 25.67px;
+top: 18.27px;
+
+
+
+/* Signal */
+
+width: 19.2px;
+height: 11.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cellular Connection */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 0%;
+right: 82.47%;
+top: 62.5%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 27.49%;
+right: 54.98%;
+top: 43.75%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 54.98%;
+right: 27.49%;
+top: 21.88%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Cellular-Connection-path */
+
+position: absolute;
+left: 82.47%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Connection */
+
+width: 16.35px;
+height: 12.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Wifi */
+
+position: absolute;
+width: 16.35px;
+height: 12.02px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 56.74%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 17.44%;
+right: 17.42%;
+top: 34.6%;
+bottom: 32.26%;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 34.86%;
+right: 34.85%;
+top: 69.23%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Battery */
+
+width: 26.28px;
+height: 12.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 8.53%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+opacity: 0.4;
+border: 0.961538px solid #FFFFFF;
+border-radius: 3.84615px;
+
+
+/* Cap */
+
+position: absolute;
+left: 95.13%;
+right: 0%;
+top: 34.62%;
+bottom: 34.62%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Capacity */
+
+position: absolute;
+left: 7.32%;
+right: 30.48%;
+top: 15.38%;
+bottom: 15.39%;
+
+background: #FFFFFF;
+border-radius: 1.92308px;
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+width: 5.77px;
+height: 5.77px;
+left: 271.15px;
+top: 5.77px;
+
+
+
+/* Line 39 */
+
+position: absolute;
+width: 132px;
+height: 0px;
+left: calc(50% - 132px/2 - 0.5px);
+top: 803px;
+
+border: 5px solid #FEFEFE;
+
+
+/* oui:arrow-up */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 18px;
+top: 75px;
+
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: -6.26%;
+top: 87.5%;
+bottom: -25.01%;
+
+background: #FFFFFF;
+border: 0.5px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Frame 2121455155 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 98px;
+height: 80px;
+left: calc(50% - 98px/2 - 0.5px);
+top: 89px;
+
+
+
+/* 1 1 */
+
+width: 39px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Welcome */
+
+width: 98px;
+height: 29px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 15px;
+isolation: isolate;
+
+position: absolute;
+width: 339px;
+height: 158px;
+left: calc(50% - 339px/2);
+top: 601px;
+
+
+
+/* Line 827 */
+
+position: absolute;
+width: 339px;
+height: 0px;
+left: 0px;
+top: 20px;
+
+border: 1px solid rgba(255, 255, 255, 0.1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 36px;
+height: 37px;
+
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Or */
+
+width: 16px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 106px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 10px;
+gap: 10px;
+
+width: 339px;
+height: 49px;
+
+border: 1px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Google */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.6%;
+right: 1.57%;
+top: 0.58%;
+bottom: 0.58%;
+
+background: #EBEBEB;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.84%;
+right: 15.98%;
+top: 0.58%;
+bottom: 59.65%;
+
+background: #E33629;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.58%;
+right: 76.96%;
+top: 27.81%;
+bottom: 27.81%;
+
+background: #F8BD00;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.99%;
+right: 1.57%;
+top: 40.74%;
+bottom: 12.51%;
+
+background: #587DBD;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.84%;
+right: 16.24%;
+top: 59.62%;
+bottom: 0.62%;
+
+background: #319F43;
+
+
+/* Connect to Apple Health */
+
+width: 137px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #EBEBEB;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 10px;
+gap: 10px;
+
+width: 339px;
+height: 49px;
+
+border: 1px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* uil:apple */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.07%;
+right: 16.08%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #EBEBEB;
+
+
+/* Connect to Apple Health */
+
+width: 128px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #EBEBEB;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Dark Keyboard */
+
+position: absolute;
+width: 375px;
+height: 260px;
+left: 0px;
+top: 552px;
+
+background: rgba(32, 32, 32, 0.92);
+backdrop-filter: blur(27.1828px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Dictation */
+
+position: absolute;
+left: 88%;
+right: 8%;
+top: 82.82%;
+bottom: 8.59%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 88%;
+right: 8%;
+top: 86.65%;
+bottom: 8.59%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 88%;
+right: 11.56%;
+top: 86.37%;
+bottom: 13.06%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 91.56%;
+right: 8%;
+top: 86.37%;
+bottom: 13.06%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 88.71%;
+right: 10.84%;
+top: 90.84%;
+bottom: 8.59%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 90.84%;
+right: 8.71%;
+top: 90.84%;
+bottom: 8.59%;
+
+background: #E7E7E7;
+
+
+/* Dictation-path */
+
+position: absolute;
+left: 88.8%;
+right: 8.8%;
+top: 82.82%;
+bottom: 11%;
+
+background: #E7E7E7;
+
+
+/* Emoji */
+
+position: absolute;
+left: 6.67%;
+right: 86.27%;
+top: 82.47%;
+bottom: 8.42%;
+
+background: #E7E7E7;
+
+
+/* Emoji-path */
+
+position: absolute;
+left: 6.67%;
+right: 86.27%;
+top: 82.47%;
+bottom: 8.42%;
+
+background: #E7E7E7;
+
+
+/* Emoji-path */
+
+position: absolute;
+left: 8.67%;
+right: 90.5%;
+top: 85.05%;
+bottom: 13.89%;
+
+background: #E7E7E7;
+
+
+/* Emoji-path */
+
+position: absolute;
+left: 7.84%;
+right: 87.44%;
+top: 87.48%;
+bottom: 9.78%;
+
+background: #E7E7E7;
+
+
+/* Emoji-path */
+
+position: absolute;
+left: 8.25%;
+right: 87.84%;
+top: 87.96%;
+bottom: 11.04%;
+
+background: #E7E7E7;
+
+
+/* Emoji-path */
+
+position: absolute;
+left: 10.91%;
+right: 88.27%;
+top: 85.05%;
+bottom: 13.88%;
+
+background: #E7E7E7;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Home Indicator */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Home Indicator */
+
+position: absolute;
+width: 134px;
+height: 5px;
+left: calc(50% - 134px/2 + 0.5px);
+bottom: 8px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Keys */
+
+position: absolute;
+width: 369px;
+height: 182.27px;
+left: 3px;
+top: 7.15px;
+
+
+
+/* Return */
+
+position: absolute;
+left: 75.73%;
+right: 0.8%;
+top: 58.42%;
+bottom: 27.15%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #242424;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Label */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 26.19%;
+bottom: 17.85%;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-align: center;
+letter-spacing: -0.32px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Space */
+
+position: absolute;
+left: 25.6%;
+right: 25.87%;
+top: 58.42%;
+bottom: 27.15%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Label */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 26.19%;
+bottom: 17.85%;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-align: center;
+letter-spacing: -0.32px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* 123 */
+
+position: absolute;
+left: 0.8%;
+right: 76%;
+top: 58.42%;
+bottom: 27.15%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #242424;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Label */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 26.19%;
+bottom: 17.85%;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-align: center;
+letter-spacing: -0.32px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Delete */
+
+position: absolute;
+left: 88%;
+right: 0.8%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Key Light */
+
+position: absolute;
+left: 88%;
+right: 0.8%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #242424;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Label */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 26.19%;
+bottom: 17.85%;
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height, or 131% */
+text-align: center;
+letter-spacing: -0.32px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Delete Button */
+
+position: absolute;
+left: 90.58%;
+right: 3.38%;
+top: 44.21%;
+bottom: 49.95%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Exclude */
+
+position: absolute;
+width: 22.66px;
+height: 15.18px;
+left: 339.66px;
+top: 114.95px;
+
+background: #DADADA;
+
+
+/* Border */
+
+position: absolute;
+left: 90.58%;
+right: 3.38%;
+top: 44.21%;
+bottom: 49.95%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 93.34%;
+right: 4.88%;
+top: 45.98%;
+bottom: 51.72%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 93.34%;
+right: 4.88%;
+top: 45.98%;
+bottom: 51.72%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 94.86%;
+right: 4.84%;
+top: 45.92%;
+bottom: 53.69%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 93.29%;
+right: 6.4%;
+top: 47.94%;
+bottom: 51.67%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 94.87%;
+right: 4.83%;
+top: 47.95%;
+bottom: 51.67%;
+
+background: #FFFFFF;
+
+
+/* Cross-path */
+
+position: absolute;
+left: 93.3%;
+right: 6.4%;
+top: 45.92%;
+bottom: 53.69%;
+
+background: #FFFFFF;
+
+
+/* Shift */
+
+position: absolute;
+left: 0.8%;
+right: 88%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Shift */
+
+position: absolute;
+left: 0.8%;
+right: 88%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 48.57%;
+right: 51.43%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Shift */
+
+position: absolute;
+left: 3.91%;
+right: 91.06%;
+top: 44.05%;
+bottom: 50.29%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* M */
+
+position: absolute;
+left: 76%;
+right: 15.47%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 20%;
+right: 23.75%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* N */
+
+position: absolute;
+left: 65.87%;
+right: 25.6%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* B */
+
+position: absolute;
+left: 55.73%;
+right: 35.73%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* V */
+
+position: absolute;
+left: 45.87%;
+right: 45.6%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* C */
+
+position: absolute;
+left: 35.73%;
+right: 55.73%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* X */
+
+position: absolute;
+left: 25.87%;
+right: 65.6%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Z */
+
+position: absolute;
+left: 15.73%;
+right: 75.73%;
+top: 39.86%;
+bottom: 45.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* L */
+
+position: absolute;
+left: 85.87%;
+right: 5.6%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 33.12%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* K */
+
+position: absolute;
+left: 75.73%;
+right: 15.73%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* J */
+
+position: absolute;
+left: 65.87%;
+right: 25.6%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 35.63%;
+right: 36.25%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* H */
+
+position: absolute;
+left: 55.73%;
+right: 35.73%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 23.13%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* G */
+
+position: absolute;
+left: 45.87%;
+right: 45.6%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 23.13%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* F */
+
+position: absolute;
+left: 35.73%;
+right: 55.73%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 33.12%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* D */
+
+position: absolute;
+left: 25.87%;
+right: 65.6%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* S */
+
+position: absolute;
+left: 15.73%;
+right: 75.73%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 33.12%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* A */
+
+position: absolute;
+left: 5.87%;
+right: 85.6%;
+top: 21.31%;
+bottom: 64.26%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* P */
+
+position: absolute;
+left: 90.67%;
+right: 0.8%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* O */
+
+position: absolute;
+left: 80.8%;
+right: 10.67%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 23.13%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* I */
+
+position: absolute;
+left: 70.67%;
+right: 20.8%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 35.63%;
+right: 39.37%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* U */
+
+position: absolute;
+left: 60.8%;
+right: 30.67%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Y */
+
+position: absolute;
+left: 50.67%;
+right: 40.8%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* T */
+
+position: absolute;
+left: 40.8%;
+right: 50.67%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* R */
+
+position: absolute;
+left: 30.67%;
+right: 60.8%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 26.25%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* E */
+
+position: absolute;
+left: 20.8%;
+right: 70.67%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 29.38%;
+right: 30%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* W */
+
+position: absolute;
+left: 10.67%;
+right: 80.8%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 20%;
+right: 20.62%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Q */
+
+position: absolute;
+left: 0.8%;
+right: 90.67%;
+top: 2.75%;
+bottom: 82.82%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.47px;
+
+background: #434343;
+box-shadow: 0px 1px 0px #000000;
+border-radius: 4.6px;
+
+
+/* Symbol */
+
+position: absolute;
+height: 27px;
+left: 23.13%;
+right: 26.87%;
+top: calc(50% - 27px/2 + 0.74px);
+
+font-family: 'Abhaya Libre SemiBold';
+font-style: normal;
+font-weight: 600;
+font-size: 22.5px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.554706px;
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* Frame 2121455156 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 339px;
+height: 370px;
+left: 17px;
+top: 169px;
+
+
+
+/* Frame 2121455167 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 339px;
+height: 243px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2121455152 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 339px;
+height: 243px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 57px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 299px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 31px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 299px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Textfield */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2121455168 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 339px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Email or username */
+
+width: 57px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #B2B2BE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+
+width: 339px;
+height: 50px;
+
+border: 0.5px solid #2D3031;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* example@gmail.com */
+
+margin: 0 auto;
+width: 275px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: #2D3031;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Iconly/Regular/Light/Hide */
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Hide */
+
+position: absolute;
+width: 18.5px;
+height: 15.77px;
+left: 2.75px;
+top: 4.25px;
+
+
+
+/* Stroke 1 */
+
+position: absolute;
+left: 36.82%;
+right: 40.71%;
+top: 37.38%;
+bottom: 40.14%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 3 */
+
+position: absolute;
+left: 52.37%;
+right: 37.06%;
+top: 52.91%;
+bottom: 36.5%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 5 */
+
+position: absolute;
+left: 11.46%;
+right: 27.77%;
+top: 20.14%;
+bottom: 27.2%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 7 */
+
+position: absolute;
+left: 39.45%;
+right: 11.46%;
+top: 37.46%;
+bottom: 19%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Stroke 9 */
+
+position: absolute;
+left: 17.14%;
+right: 17.14%;
+top: 17.71%;
+bottom: 16.57%;
+
+border: 1.5px solid rgba(255, 255, 255, 0.6);
+
+
+/* Error Message */
+
+display: none;
+width: 73px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.02em;
+
+color: #FF4646;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 10px;
+gap: 10px;
+
+width: 339px;
+height: 45px;
+
+background: #3369FF;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 38px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 10px;
+gap: 10px;
+
+width: 339px;
+height: 46px;
+
+border: 1px solid #5F5D5D;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Connect to Apple Health */
+
+width: 55px;
+height: 19px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Badges */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 10px;
+gap: 10px;
+
+display: none;
+width: 57px;
+height: 19px;
+
+background: #B252E2;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logo */
+
+display: none;
+width: 20px;
+height: 20px;
+
+background: #C9C9C9;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Text */
+
+position: absolute;
+width: 0px;
+height: 15px;
+left: 0px;
+top: 583px;
+
+
+
+
+/* Text */
+
+position: absolute;
+width: 0px;
+height: 15px;
+left: 0px;
+top: 583px;
+
+
+
+
+/* Text */
+
+position: absolute;
+width: 0px;
+height: 15px;
+left: 0px;
+top: 583px;
+
+
+
+
+/* Load */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 203px 34px;
+gap: 10px;
+
+position: relative;
+width: 375px;
+height: 812px;
+
+/* blue */
+background: #3369FF;
+border-radius: 40px;
+
+
+/* 2 1 */
+
+width: 306px;
+height: 313px;
+
+background: url(2.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Onboarding */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 81px;
+
+position: absolute;
+width: 221px;
+height: 39px;
+left: 29px;
+top: 30px;
+
+
+
+/* Frame 40 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+width: 221px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 60.12%;
+top: 24.71%;
+bottom: 24.71%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.29%;
+right: 14.58%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 180px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1 1 */
+
+width: 39px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1px;
+
+width: 121px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* QS Assistant */
+
+width: 121px;
+height: 27px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 6px;
+height: 6px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 375px;
+height: 0px;
+left: 0px;
+top: 94px;
+
+border: 1px solid #ECECEC;
+
+
+/* Frame 52 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 37px;
+
+position: absolute;
+width: 327px;
+height: 73px;
+left: 18px;
+top: 575px;
+
+
+
+/* Frame 51 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+width: 345px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 345px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 344px;
+height: 73px;
+
+background: #F4F4F4;
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Based on my shifts and mood data, what was my average mood for every shift type; Morning, evening an night. */
+
+width: 284px;
+height: 57px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #3E3E3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 26px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 16.67%;
+top: 16.67%;
+bottom: 20.83%;
+
+border: 2px solid #3369FF;
+
+
+/* Frame 47 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 342px;
+height: 48px;
+left: 18px;
+top: 656px;
+
+background: #F4F4F4;
+border-radius: 30px;
+
+
+/* Correlate the data of sleep length and mood, and give give me the optimal length of sleep */
+
+width: 284px;
+height: 38px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #3E3E3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 26px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 16.67%;
+top: 16.67%;
+bottom: 20.83%;
+
+border: 2px solid #3369FF;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 22px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 18px;
+top: 720px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 20px rgba(0, 0, 0, 0.13);
+border-radius: 30px;
+
+
+/* Write your message... */
+
+width: 131px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #A2A2A2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 293px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.71%;
+right: 12.71%;
+top: 12.51%;
+bottom: 12.51%;
+
+/* blue */
+background: #3369FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* blue */
+background: #3369FF;
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 236px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 35.42%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.12%;
+right: 18.13%;
+top: 40.21%;
+bottom: 20.83%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.21%;
+right: 44.21%;
+top: 25.76%;
+bottom: 73.21%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.67%;
+right: 46.63%;
+top: 35.19%;
+bottom: 64.37%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 79.17%;
+bottom: 8.33%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 313px;
+height: 81px;
+left: 22px;
+top: 466px;
+
+
+
+/* Quantified Self Chat */
+
+width: 268px;
+height: 81px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 282px;
+top: 736px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #3369FF;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 282px;
+top: 736px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #3369FF;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 282px;
+top: 736px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #3369FF;
+
+
+/* Onboarding */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4.91px;
+
+position: absolute;
+width: 26px;
+height: 25.51px;
+left: 28px;
+top: 810px;
+
+background: #FFFFFF;
+box-shadow: 0px 1.96226px 1.96226px rgba(0, 0, 0, 0.05);
+border-radius: 245.283px;
+
+
+/* blue-robot-mascot-logo-icon-design_675467-55 1 (Traced) (1) */
+
+width: 11.77px;
+height: 17.66px;
+
+background: url(blue-robot-mascot-logo-icon-design_675467-55 1 (Traced) (1).png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 81px;
+
+position: absolute;
+width: 219.56px;
+height: 39px;
+left: 29px;
+top: 30px;
+
+
+
+/* Frame 40 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+width: 219.56px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 60.12%;
+top: 24.71%;
+bottom: 24.71%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.29%;
+right: 14.58%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 178.56px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1 2 */
+
+width: 37.56px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1px;
+
+width: 121px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* QS Assistant */
+
+width: 121px;
+height: 27px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 55 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4.91px;
+
+position: absolute;
+width: 26px;
+height: 25.51px;
+left: 29px;
+top: 243px;
+
+background: #FFFFFF;
+box-shadow: 0px 1.96226px 1.96226px rgba(0, 0, 0, 0.05);
+border-radius: 245.283px;
+
+
+/* 1 2 */
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 29px;
+top: 229px;
+
+background: url(1.png);
+
+
+/* 1 1 */
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 29px;
+top: 509px;
+
+background: url(1.png);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 375px;
+height: 0px;
+left: 0px;
+top: 94px;
+
+border: 1px solid #ECECEC;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 22px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 18px;
+top: 720px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 20px rgba(0, 0, 0, 0.13);
+border-radius: 30px;
+
+
+/* Write your message */
+
+width: 122px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #A2A2A2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 293px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.71%;
+right: 12.71%;
+top: 12.51%;
+bottom: 12.51%;
+
+/* blue */
+background: #3369FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 262px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 35.42%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.13%;
+right: 18.12%;
+top: 40.21%;
+bottom: 20.83%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.21%;
+right: 44.21%;
+top: 25.76%;
+bottom: 73.21%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.67%;
+right: 46.63%;
+top: 35.19%;
+bottom: 64.37%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 79.17%;
+bottom: 8.33%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 302px;
+height: 64px;
+left: 44px;
+top: 116px;
+
+/* blue */
+background: #3369FF;
+border-radius: 25px 0px 25px 25px;
+
+
+/* Give me the correlation between sleep duration and mood */
+
+width: 233px;
+height: 36px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 291px;
+height: 70px;
+left: 55px;
+top: 286px;
+
+/* blue */
+background: #3369FF;
+border-radius: 25px 0px 25px 25px;
+
+
+/* Correlate the data of sleep length and mood, and give give me the optimal length of sleep */
+
+width: 276px;
+height: 36px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 59 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 184px;
+height: 54px;
+left: 162px;
+top: 577px;
+
+/* blue */
+background: #3369FF;
+border-radius: 25px 0px 25px 25px;
+
+
+/* So explain to me more */
+
+width: 136px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 54 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 252px;
+height: 54px;
+left: 62px;
+top: 197px;
+
+background: #EEEEEE;
+border-radius: 25px 25px 25px 0px;
+
+
+/* Text from BE */
+
+width: 79px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #505050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 58 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 252px;
+height: 160px;
+left: 62px;
+top: 376px;
+
+background: #EEEEEE;
+border-radius: 25px 25px 25px 0px;
+
+
+/* Text from BE */
+
+position: absolute;
+width: 79px;
+height: 18px;
+left: 80px;
+top: 397px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #505050;
+
+
+
+/* Onboarding */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4.91px;
+
+position: absolute;
+width: 26px;
+height: 25.51px;
+left: 28px;
+top: 810px;
+
+background: #FFFFFF;
+box-shadow: 0px 1.96226px 1.96226px rgba(0, 0, 0, 0.05);
+border-radius: 245.283px;
+
+
+/* blue-robot-mascot-logo-icon-design_675467-55 1 (Traced) (1) */
+
+width: 11.77px;
+height: 17.66px;
+
+background: url(blue-robot-mascot-logo-icon-design_675467-55 1 (Traced) (1).png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 81px;
+
+position: absolute;
+width: 219.56px;
+height: 39px;
+left: 29px;
+top: 30px;
+
+
+
+/* Frame 40 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+width: 219.56px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 60.12%;
+top: 24.71%;
+bottom: 24.71%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.29%;
+right: 14.58%;
+top: 50%;
+bottom: 50%;
+
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 178.56px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1 2 */
+
+width: 37.56px;
+height: 39px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 1px;
+
+width: 121px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* QS Assistant */
+
+width: 121px;
+height: 27px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* blue */
+color: #3369FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 1 2 */
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 29px;
+top: 229px;
+
+background: url(1.png);
+
+
+/* 1 1 */
+
+position: absolute;
+width: 26px;
+height: 27px;
+left: 18px;
+top: 572px;
+
+background: url(1.png);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 375px;
+height: 0px;
+left: 0px;
+top: 94px;
+
+border: 1px solid #ECECEC;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 22px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 333px;
+height: 56px;
+left: 18px;
+top: 720px;
+
+background: #FFFFFF;
+box-shadow: 5px 4px 20px rgba(0, 0, 0, 0.13);
+border-radius: 30px;
+
+
+/* Write your message... */
+
+width: 131px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #A2A2A2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 293px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* vuesax/bold/send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* send */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.71%;
+right: 12.71%;
+top: 12.51%;
+bottom: 12.51%;
+
+/* blue */
+background: #3369FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* blue */
+background: #3369FF;
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 232px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* vuesax/linear/microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* microphone-2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 8.33%;
+bottom: 35.42%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.13%;
+right: 18.12%;
+top: 40.21%;
+bottom: 20.83%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.21%;
+right: 44.21%;
+top: 25.76%;
+bottom: 73.21%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.67%;
+right: 46.63%;
+top: 35.19%;
+bottom: 64.37%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 79.17%;
+bottom: 8.33%;
+
+border: 1.5px solid #CECECE;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+opacity: 0;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 261px;
+top: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #3369FF;
+
+
+/* Frame 53 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 302px;
+height: 64px;
+left: 44px;
+top: 116px;
+
+/* blue */
+background: #3369FF;
+border-radius: 25px 0px 25px 25px;
+
+
+/* Give me the correlation between sleep duration and mood */
+
+width: 233px;
+height: 36px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 318px;
+height: 54px;
+left: 33px;
+top: 286px;
+
+/* blue */
+background: #3369FF;
+border-radius: 25px 0px 25px 25px;
+
+
+/* Correlate mood with sleep from the last 90 days */
+
+width: 293px;
+height: 36px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 54 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 54px;
+left: 55px;
+top: 199px;
+
+background: #EEEEEE;
+border-radius: 25px 25px 25px 0px;
+
+
+/* Hello,i’m fine,how can i help you? */
+
+width: 203px;
+height: 18px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #505050;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2121455359 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 367px;
+height: 167px;
+left: 18px;
+top: 356px;
+
+
+
+/* Frame 147 */
+
+width: 340px;
+height: 206px;
+
+background: #F3F3F3;
+border: 1px solid #2D3031;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1597880486 */
+
+position: absolute;
+width: 297.5px;
+height: 131px;
+left: 29.5px;
+top: 40px;
+
+
+
+/* Line 855 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 171px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* Line 854 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 157px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, -0.01, 0.01, -1, 0, 0);
+
+
+/* Line 853 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 142px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, -0.01, 0.01, -1, 0, 0);
+
+
+/* Line 852 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 127px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, -0.01, 0.01, -1, 0, 0);
+
+
+/* Line 851 */
+
+position: absolute;
+width: 297.51px;
+height: 0px;
+left: 327px;
+top: 113px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, -0.01, 0.02, -1, 0, 0);
+
+
+/* Line 850 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 96px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* Line 849 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 81px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* Line 844 */
+
+position: absolute;
+width: 296.78px;
+height: 0px;
+left: 327px;
+top: 67px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: rotate(180deg);
+
+
+/* Line 848 */
+
+position: absolute;
+width: 297.5px;
+height: 0px;
+left: 327px;
+top: 53px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+
+
+/* Line 842 */
+
+position: absolute;
+width: 296.78px;
+height: 0px;
+left: 327px;
+top: 40px;
+
+opacity: 0.4;
+border: 1px dashed #8C8888;
+transform: rotate(180deg);
+
+
+/* Vector 170 */
+
+position: absolute;
+width: 11.5px;
+height: 9px;
+left: 61px;
+top: 1.5px;
+
+
+
+/* Group 1597880485 */
+
+position: absolute;
+width: 301.5px;
+height: 163.5px;
+left: 4px;
+top: 35px;
+
+
+
+/* Line 832 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 170px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Group 1597880488 */
+
+position: absolute;
+width: 261px;
+height: 6px;
+left: 38.5px;
+top: 181.5px;
+
+
+
+/* Line 848 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 38.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 849 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 67.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 850 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 96.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 851 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 125.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 852 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 154.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 853 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 183.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 854 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 212.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 855 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 241.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 856 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 270.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 857 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 299.5px;
+top: 187.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(-90deg);
+
+
+/* Line 833 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 155px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 834 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 140px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 835 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 125px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 847 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 110px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 837 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 95px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 838 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 80px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 839 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 28.5px;
+top: 66.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 840 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 29px;
+top: 53px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* Line 841 */
+
+position: absolute;
+width: 6px;
+height: 0px;
+left: 28.5px;
+top: 39.5px;
+
+border: 1px solid #5B5A5A;
+transform: rotate(180deg);
+
+
+/* 10 */
+
+position: absolute;
+width: 11px;
+height: 7px;
+left: 8px;
+top: 167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 1h */
+
+position: absolute;
+width: 11px;
+height: 7px;
+left: 32.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 2h */
+
+position: absolute;
+width: 12px;
+height: 7px;
+left: 61.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 3h */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 90.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 4h */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 119.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 5h */
+
+position: absolute;
+width: 12px;
+height: 7px;
+left: 148.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 6h */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 177.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 7h */
+
+position: absolute;
+width: 12px;
+height: 7px;
+left: 206.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 8h */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 235.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 9h */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 264.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 10h */
+
+position: absolute;
+width: 17px;
+height: 7px;
+left: 288.5px;
+top: 191.5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 20 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 151px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 30 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 137px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 40 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 123px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 50 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 60 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 93px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 70 */
+
+position: absolute;
+width: 12px;
+height: 7px;
+left: 8px;
+top: 77px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 80 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 63px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 90 */
+
+position: absolute;
+width: 13px;
+height: 7px;
+left: 8px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 18px;
+height: 7px;
+left: 4px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #3369FF;
+
+
+
+/* Group 1597880487 */
+
+position: absolute;
+width: 127.6px;
+height: 95.3px;
+left: 73.81px;
+top: 53px;
+
+
+
+/* Ellipse 9207 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 73.81px;
+top: 133.39px;
+
+background: #3369FF;
+
+
+/* Ellipse 9208 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 113px;
+top: 132px;
+
+background: #3369FF;
+
+
+/* Ellipse 9209 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 137px;
+top: 130px;
+
+background: #3369FF;
+
+
+/* Ellipse 9210 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 116px;
+top: 108px;
+
+background: #3369FF;
+
+
+/* Ellipse 9211 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 94px;
+top: 114px;
+
+background: #3369FF;
+
+
+/* Ellipse 9212 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 91px;
+top: 118px;
+
+background: #3369FF;
+
+
+/* Ellipse 9213 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 85.34px;
+top: 143.53px;
+
+background: #3369FF;
+
+
+/* Ellipse 9214 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 121px;
+top: 93px;
+
+background: #3369FF;
+
+
+/* Ellipse 9215 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 120.55px;
+top: 141.33px;
+
+background: #3369FF;
+
+
+/* Ellipse 9216 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 134.09px;
+top: 109.07px;
+
+background: #3369FF;
+
+
+/* Ellipse 9218 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 144.93px;
+top: 92.35px;
+
+background: #3369FF;
+
+
+/* Ellipse 9219 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 163.88px;
+top: 86.37px;
+
+background: #3369FF;
+
+
+/* Ellipse 9220 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 178.78px;
+top: 93.54px;
+
+background: #3369FF;
+
+
+/* Ellipse 9221 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 195.03px;
+top: 88.76px;
+
+background: #3369FF;
+
+
+/* Ellipse 9222 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 188px;
+top: 86px;
+
+background: #3369FF;
+
+
+/* Ellipse 9223 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 182px;
+top: 79px;
+
+background: #3369FF;
+
+
+/* Ellipse 9224 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 176px;
+top: 67px;
+
+background: #3369FF;
+
+
+/* Ellipse 9225 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 152px;
+top: 107px;
+
+background: #3369FF;
+
+
+/* Ellipse 9226 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 188px;
+top: 67px;
+
+background: #3369FF;
+
+
+/* Ellipse 9227 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 193px;
+top: 56px;
+
+background: #3369FF;
+
+
+/* Ellipse 9229 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 196px;
+top: 75px;
+
+background: #3369FF;
+
+
+/* Ellipse 9230 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 178px;
+top: 87px;
+
+background: #3369FF;
+
+
+/* Ellipse 9231 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 184px;
+top: 131px;
+
+background: #3369FF;
+
+
+/* Ellipse 9228 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 159px;
+top: 53px;
+
+background: #3369FF;
+
+
+/* Ellipse 9217 */
+
+position: absolute;
+width: 5.42px;
+height: 4.78px;
+left: 117.84px;
+top: 124.6px;
+
+background: #3369FF;
+
+
+/* Line 830 */
+
+position: absolute;
+width: 168px;
+height: 298px;
+left: calc(50% - 168px/2 + 241px);
+top: calc(50% - 298px/2 + 59px);
+
+border: 1px solid #5B5A5A;
+transform: rotate(90deg);
+
+
+/* Vector 171 */
+
+position: absolute;
+width: 11.5px;
+height: 8.75px;
+left: 283px;
+top: 174.25px;
+
+transform: rotate(90deg);
+
+
+/* Vector 172 */
+
+position: absolute;
+width: 172px;
+height: 109px;
+left: 56px;
+top: 49px;
+
+border: 1px solid #B71010;
+
+
+/* Frame */
+
+position: absolute;
+width: 26px;
+height: 24px;
+left: 297px;
+top: 212px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 16.67%;
+top: 16.67%;
+bottom: 20.83%;
+
+border: 2px solid #3369FF;
+
+
+/* Untitled design (2) 1 */
+
+position: absolute;
+width: 350px;
+height: 367px;
+
+background: url(Untitled design (2).png);
