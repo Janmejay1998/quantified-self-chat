@@ -26,7 +26,7 @@ user_input = st.text_input("Ask Questions", "")
 
 if user_input:  # Check if user input is not empty
 
-    input_prompt = "This is user input: " + user_input + "\n\n and" + "This is sleep data: " + str(sleep_data)
+    input_prompt = "This is user asking : " + user_input + "\n\n based on what user asked, this is the sleep data:" + str(sleep_data) + "\n\n Give me short quantified answer in 1 to 2 lines: "
     response = model.generate_content(input_prompt).text
     st.write("Gemini Pro:\n", response)
 
