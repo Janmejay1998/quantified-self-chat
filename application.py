@@ -4,7 +4,15 @@ import pandas as pd
 import google.generativeai as genai
 
 # Set the background image
-st.set_page_config(page_title="Quantified Self Chat", page_icon=":bar_chart:", layout="wide", initial_sidebar_state="expanded", menu_items=None)
+st.set_page_config(
+    page_title="Quantified Self Chat",
+    page_icon=":bar_chart:",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    menu_items=None,
+)
+
+# Add a background image
 st.markdown(
     """
     <style>
@@ -41,11 +49,13 @@ def get_response(model, user_input, sleep_data):
 def main():
     """Main function to run the app."""
     st.title('The Quantified Self Chat')
+    st.header('Welcome to Quantified Self Chat!')
+    st.write('Please upload your sleep data to get started.')
+
     model = configure_model()
     sleep_data = load_data()
 
     if sleep_data is not None:
-    
         st.subheader('Sleep dataset')
         st.write(pd.DataFrame.from_dict(sleep_data))
 
@@ -53,18 +63,23 @@ def main():
         if 'chat_history' not in st.session_state:
             st.session_state['chat_history'] = []
 
-        user_input = st.text_input("Ask Questions", "")
-
-        if st.button("Submit"):  # Check if user input is not empty
-            response = get_response(model, user_input, sleep_data)
-            # Update chat history
-            st.session_state['chat_history'].append({"User": user_input, "Gemini Pro": response})
+        # Align the submit button and the text box 50% 50% inline
+        col1, col2 = st.columns([1, 1])
+        with col1:
+            user_input = st.text_input("Ask Questions", "")
+        with col2:
+            if st.button("Submit"):  # Check if user input is not empty
+                response = get_response(model, user_input, sleep_data)
+                # Update chat history
+                st.session_state['chat_history'].append({"User": user_input, "Gemini Pro": response})
 
         # Display chat history
+        st.subheader('Chat History')
         for chat in st.session_state['chat_history']:
-            st.write(f"User: {chat['User']}")
-            st.write(f"Gemini Pro: {chat['Gemini Pro']}")
-    
+            st.write(f"**User:** {chat['User']}")
+            st.write(f"**Gemini Pro:** {chat['Gemini Pro']}")
+            st.write('---')
+
     else:
         st.write("Please upload a CSV file to load the sleep data.")
 
