@@ -2,11 +2,23 @@ import os
 import streamlit as st
 import pandas as pd
 import google.generativeai as genai
-import base64
+
+# Set the background image
+st.set_page_config(page_title="Quantified Self Chat", page_icon=":bar_chart:", layout="wide", initial_sidebar_state="expanded", menu_items=None)
+st.markdown(
+    """
+    <style>
+    body {
+        background-image: url("quantified_image.jpg");
+        background-size: cover;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 # Set the environment variable
 os.environ['GOOGLE_API_KEY'] = st.secrets["GOOGLE_API_KEY"]
-
 
 def configure_model():
     """Configure the generative model."""
