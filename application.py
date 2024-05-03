@@ -29,9 +29,9 @@ def load_data():
     """Load and preprocess the data."""
     uploaded_file = st.file_uploader("Choose a CSV file", type='csv')
     if uploaded_file is not None:
-        df = pd.read_csv(uploaded_file, delimiter=',')
+        df = pd.read_csv(uploaded_file.getvalue(), delimiter=',')
         df.drop(columns=['Person ID', 'Gender', 'Age', 'Occupation', 'Nurse ID'], inplace=True)
-        return df#.to_dict(orient='list')
+        return df.to_dict(orient='list')
 
 def get_response(model, user_input, sleep_data):
     """Generate a response from the model."""
