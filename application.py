@@ -64,7 +64,7 @@ def main():
             st.session_state['chat_history'] = []
 
         # Align the submit button and the text box 50% 50% inline
-        col1, col2 = st.columns([1, 1])
+        col1, col2 = st.columns([3, 1])
         with col1:
             user_input = st.text_input("Ask Questions", "")
         with col2:
